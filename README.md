@@ -18,14 +18,12 @@ Public test repos I wrote against live targets:
 
 | Repo | Tests | Target |
 |---|---:|---|
-| [cypress-qa-portfolio](https://github.com/Rodica85/cypress-qa-portfolio) | 15 | saucedemo.com (Cypress) |
-| [selenium-qa-portfolio](https://github.com/Rodica85/selenium-qa-portfolio) | 15 | saucedemo.com (Python + pytest + Selenium) |
 | [cypress-doctorstanlarisa-tests](https://github.com/Rodica85/cypress-doctorstanlarisa-tests) | 23 | doctorstanlarisa.ro |
 | [cypress-redspeedrider-tests](https://github.com/Rodica85/cypress-redspeedrider-tests) | 40 | redspeedrider.co.uk |
 | [cypress-redwebstudio-tests](https://github.com/Rodica85/cypress-redwebstudio-tests) | 47 | redwebstudio.com |
 | [cypress-gungchaba-tests](https://github.com/Rodica85/cypress-gungchaba-tests) | 49 | gungchaba.online |
 
-189 tests passing across these 6 repos. Two real bugs found and fixed through them — horizontal scroll on a Tailwind site (the `w-screen` trap) and missing `rel="noopener"` on a couple of `target="_blank"` links (tab-jacking risk).
+159 tests passing across these 4 repos. Two real bugs found and fixed through them — horizontal scroll on a Tailwind site (the `w-screen` trap) and missing `rel="noopener"` on a couple of `target="_blank"` links (tab-jacking risk).
 
 ### Load testing
 - [k6-load-portfolio](https://github.com/Rodica85/k6-load-portfolio) — four k6 scenarios (smoke, load, stress, spike) against test.k6.io, each with scenario-appropriate thresholds and ramp patterns. Complements the functional Cypress / Selenium work above with performance-side coverage.

@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Rodica
 
-<!--
-**Rodica85/Rodica85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing graduate (Level 6, UK) working at the intersection of **web development** and **software QA**.
 
-Here are some ideas to get you started:
+Preparing to sit the **ISTQB Foundation Level (CTFL)** exam in the coming weeks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Build websites for UK small businesses through my freelance practice [**Red Web Studio**](https://redwebstudio.com)
+- Write end-to-end test suites in **Cypress** and **Selenium** — apply QA practices to my own client work and learning projects
+- Currently looking for a **Junior QA** or **Web Developer** role to grow under proper mentoring
+
+### Stack
+**Testing:** Manual testing · Cypress · Selenium · pytest · Jira · Postman  
+**Web:** HTML · CSS · JavaScript · PHP · Python · Astro · Flask · WordPress  
+**Tools:** Git · GitHub · npm
+
+### Find me elsewhere
+- Website: [redwebstudio.com](https://redwebstudio.com)
+- Location: Oxford, UK

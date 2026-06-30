@@ -27,8 +27,11 @@ Public test repos I wrote against live targets:
 
 189 tests passing across these 6 repos. Two real bugs found and fixed through them — horizontal scroll on a Tailwind site (the `w-screen` trap) and missing `rel="noopener"` on a couple of `target="_blank"` links (tab-jacking risk).
 
+### Load testing
+- [k6-load-portfolio](https://github.com/Rodica85/k6-load-portfolio) — four k6 scenarios (smoke, load, stress, spike) against test.k6.io, each with scenario-appropriate thresholds and ramp patterns. Complements the functional Cypress / Selenium work above with performance-side coverage.
+
 ### Stack
-**Testing:** Manual testing · Cypress · Selenium · pytest · Jira · Postman  
+**Testing:** Manual testing · Cypress · Selenium · pytest · k6 · Jira · Postman  
 **Web:** HTML · CSS · JavaScript · PHP · Python · Astro · Flask · WordPress  
 **Tools:** Git · GitHub · npm
 

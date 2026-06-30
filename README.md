@@ -5,12 +5,12 @@ Computing graduate (Level 6, UK) working at the intersection of **web developmen
 Preparing to sit the **ISTQB Foundation Level (CTFL)** exam in the coming weeks.
 
 ### What I do
-- Build websites for UK small businesses through my freelance practice [**Red Web Studio**](https://redwebstudio.com)
+- Build websites for UK small businesses through my freelance practice [**Red Web Studio**](https://www.redwebstudio.com)
 - Write end-to-end test suites in **Cypress** and **Selenium** — apply QA practices to my own client work and learning projects
 - Currently looking for a **Junior QA** or **Web Developer** role to grow under proper mentoring
 
 ### Live client work
-- [**redwebstudio.com**](https://redwebstudio.com) — my own freelance studio
+- [**www.redwebstudio.com**](https://www.redwebstudio.com) — my own freelance studio
 - [**doctorstanlarisa.ro**](https://doctorstanlarisa.ro) — diabetes specialist (Astro single-page, AI chat widget)
 - [**gungchaba.online**](https://www.gungchaba.online) — Thai massage business (multi-page, Tailwind)
 - [**redspeedrider.co.uk**](https://redspeedrider.co.uk) — man-with-a-van service in Abingdon
@@ -21,5 +21,5 @@ Preparing to sit the **ISTQB Foundation Level (CTFL)** exam in the coming weeks.
 **Tools:** Git · GitHub · npm
 
 ### Find me elsewhere
-- Website: [redwebstudio.com](https://redwebstudio.com)
+- Website: [www.redwebstudio.com](https://www.redwebstudio.com)
 - Location: Oxford, UK

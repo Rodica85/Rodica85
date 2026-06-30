@@ -9,6 +9,12 @@ Preparing to sit the **ISTQB Foundation Level (CTFL)** exam in the coming weeks.
 - Write end-to-end test suites in **Cypress** and **Selenium** — apply QA practices to my own client work and learning projects
 - Currently looking for a **Junior QA** or **Web Developer** role to grow under proper mentoring
 
+### Live client work
+- [**redwebstudio.com**](https://redwebstudio.com) — my own freelance studio
+- [**doctorstanlarisa.ro**](https://doctorstanlarisa.ro) — diabetes specialist (Astro single-page, AI chat widget)
+- [**gungchaba.online**](https://www.gungchaba.online) — Thai massage business (multi-page, Tailwind)
+- [**redspeedrider.co.uk**](https://redspeedrider.co.uk) — man-with-a-van service in Abingdon
+
 ### Stack
 **Testing:** Manual testing · Cypress · Selenium · pytest · Jira · Postman  
 **Web:** HTML · CSS · JavaScript · PHP · Python · Astro · Flask · WordPress  

@@ -1,22 +1,20 @@
 ## Hi, I'm Rodica
 
-Computing graduate (Level 6, UK) working at the intersection of **web development** and **software QA**.
-
-Preparing to sit the **ISTQB Foundation Level (CTFL)** exam in the coming weeks.
+Computing graduate (Level 6, UK). I build websites and I write tests for them. I'm looking for a Junior QA or Web Developer role, and I'm sitting the **ISTQB Foundation Level (CTFL)** exam soon.
 
 ### What I do
-- Build websites for UK small businesses through my freelance practice [**Red Web Studio**](https://www.redwebstudio.com)
-- Write end-to-end test suites in **Cypress** and **Selenium** — apply QA practices to my own client work and learning projects
-- Currently looking for a **Junior QA** or **Web Developer** role to grow under proper mentoring
+- Run a small freelance web-development practice, [Red Web Studio](https://redwebstudio.com), for UK small businesses
+- Write end-to-end tests in Cypress and Selenium for my own client work and as learning projects
+- Looking to join a team where I can specialise in QA and learn from senior engineers
 
 ### Live client work
-- [**www.redwebstudio.com**](https://www.redwebstudio.com) — my own freelance studio
-- [**doctorstanlarisa.ro**](https://doctorstanlarisa.ro) — diabetes specialist (Astro single-page, AI chat widget)
-- [**gungchaba.online**](https://www.gungchaba.online) — Thai massage business (multi-page, Tailwind)
-- [**redspeedrider.co.uk**](https://redspeedrider.co.uk) — man-with-a-van service in Abingdon
+- [redwebstudio.com](https://redwebstudio.com) — my own freelance studio
+- [doctorstanlarisa.ro](https://doctorstanlarisa.ro) — diabetes specialist (Astro single-page, AI chat widget)
+- [gungchaba.online](https://gungchaba.online) — Thai massage business (multi-page, Tailwind)
+- [redspeedrider.co.uk](https://redspeedrider.co.uk) — man-with-a-van service in Abingdon
 
 ### QA test suites
-Public Cypress and Selenium test repos I've authored against live targets:
+Public test repos I wrote against live targets:
 
 | Repo | Tests | Target |
 |---|---:|---|
@@ -24,10 +22,10 @@ Public Cypress and Selenium test repos I've authored against live targets:
 | [selenium-qa-portfolio](https://github.com/Rodica85/selenium-qa-portfolio) | 15 | saucedemo.com (Python + pytest + Selenium) |
 | [cypress-doctorstanlarisa-tests](https://github.com/Rodica85/cypress-doctorstanlarisa-tests) | 23 | doctorstanlarisa.ro |
 | [cypress-redspeedrider-tests](https://github.com/Rodica85/cypress-redspeedrider-tests) | 40 | redspeedrider.co.uk |
-| [cypress-redwebstudio-tests](https://github.com/Rodica85/cypress-redwebstudio-tests) | 47 | www.redwebstudio.com |
+| [cypress-redwebstudio-tests](https://github.com/Rodica85/cypress-redwebstudio-tests) | 47 | redwebstudio.com |
 | [cypress-gungchaba-tests](https://github.com/Rodica85/cypress-gungchaba-tests) | 49 | gungchaba.online |
 
-**189 tests passing across 6 public repos.** Two real production bugs caught and fixed through this suite — horizontal overflow on a Tailwind site (`w-screen` footgun) and `rel="noopener"` missing on `target="_blank"` external links (tab-jacking risk).
+189 tests passing across these 6 repos. Two real bugs found and fixed through them — horizontal scroll on a Tailwind site (the `w-screen` trap) and missing `rel="noopener"` on a couple of `target="_blank"` links (tab-jacking risk).
 
 ### Stack
 **Testing:** Manual testing · Cypress · Selenium · pytest · Jira · Postman  
@@ -35,5 +33,5 @@ Public Cypress and Selenium test repos I've authored against live targets:
 **Tools:** Git · GitHub · npm
 
 ### Find me elsewhere
-- Website: [www.redwebstudio.com](https://www.redwebstudio.com)
+- Website: [redwebstudio.com](https://redwebstudio.com)
 - Location: Oxford, UK
